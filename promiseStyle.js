@@ -1,7 +1,4 @@
 'use strict';
-
-// Асинхронность через Promise (.then / .catch)
-
 const { API_ROOT } = require('./settings');
 const { extractUserContacts, selectPendingTodos } = require('./dataTools');
 const { printSection } = require('./output');
