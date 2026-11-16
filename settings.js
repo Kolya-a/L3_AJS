@@ -1,5 +1,5 @@
 'use strict';
 module.exports = {
   API_ROOT: 'https://jsonplaceholder.typicode.com',
-  PREVIEW_COUNT: 10, // сколько элементов показывать в консоли
+  PREVIEW_COUNT: 10, 
 };
