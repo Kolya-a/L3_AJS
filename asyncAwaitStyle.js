@@ -1,7 +1,4 @@
 'use strict';
-
-// Асинхронность через async / await
-
 const { API_ROOT } = require('./settings');
 const {
   orderPostsByTitleDesc,
