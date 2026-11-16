@@ -1,7 +1,4 @@
 'use strict';
-
-// Асинхронность через колбэки (модуль https)
-
 const https = require('https');
 const { API_ROOT } = require('./settings');
 const { orderPostsByTitleDesc, orderCommentsByName } = require('./dataTools');
